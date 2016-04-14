@@ -1,0 +1,18 @@
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container-fluid">
+		<div class="navbar-header">
+		  <h1 class="nav-title" style="font-size: 24px;">Drink Responsibly</h1>
+		</div>
+		<ul class="nav navbar-nav navbar-right">
+			<li id="right"><a href="">&nbsp;About</a>
+			<li id="right"><a href="form">&nbsp;Home</a>
+		</ul>
+	</div>
+	</nav>
+	<!--<nav class="nav-tabs" role="navigation">
+	<h1  class="nav-title">Drink Responsibly</h1>
+		<ul class="nav navbar-nav navbar-right">
+			<li id="right"><a href="">&nbsp;About</a>
+			<li id="right"><a href="form">&nbsp;Home</a>
+		</ul>
+	</nav>-->

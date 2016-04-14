@@ -1,0 +1,9 @@
+1459263663885	Rename resource 'style'
+1459264024888	Rename resource 'index.jsp'
+1459266302202	Move 'bootstrap' to 'WebContent'
+1459266309786	Move 'css' to 'WebContent'
+1459270495970	Copy file
+1459270725030	Move 'css' to 'WEB-INF'
+1459270733519	Move 'bootstrap' to 'WEB-INF'
+1459271688565	Copy file
+1459271728086	Delete element

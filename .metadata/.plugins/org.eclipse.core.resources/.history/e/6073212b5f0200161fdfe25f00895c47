@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One|Poiret+One|Bitter|Arvo|Amatic+SC:400,700);
+
+/*
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Poiret One', cursive;
+font-family: 'Bitter', serif;
+font-family: 'Arvo', serif;
+font-family: 'Amatic SC', cursive;
+*/
+
+h1 {font-family: 'Poiret One', cursive;}
+.center-text {text-align:center;}
+
+body {
+	font-family: 'Arvo', serif;
+	/*background-color: #F8F6D1;*/
+	background-color: #ABA980;
+}
+
+ul {
+	list-style-type: none;
+}
+
+nav a {
+	
+	margin-top: 15px;
+}
+
+.label a {
+	color: white;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #55555;
+}
+
+form p {
+	margin-top: 5px;
+	margin-bottom: 5px;	
+}
+
+hr { 
+	border: 0; 
+	height: 1px; 
+	background: #333; 
+	background-image: linear-gradient(to right, #ccc, #333, #ccc); 
+}
+
+.form-control {
+	
+	height: 100%;
+}
+
+#drop-shadow {
+	
+	box-shadow: 3px 2.5px #13426A;
+}
+
+#drop-shadow:hover {
+	
+	box-shadow: none;
+	margin-left: 6px;
+}
+
+#drop-shadow-green {
+	
+	box-shadow: 3px 2.5px #2B6B2B;
+}
+
+#drop-shadow-green:hover {
+	
+	box-shadow: none;
+	margin-left: 6px;
+}
+
+#drop-shadow-primary {
+	
+	box-shadow: 3px 2.5px 3px 3px #555555;
+}

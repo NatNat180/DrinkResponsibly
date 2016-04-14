@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One|Poiret+One|Bitter|Arvo|Amatic+SC:400,700);
+
+/*
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Poiret One', cursive;
+font-family: 'Bitter', serif;
+font-family: 'Arvo', serif;
+font-family: 'Amatic SC', cursive;
+*/
+
+nav a {
+	
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+h1 {font-family: 'Poiret One', cursive;}
+body {font-family: 'Arvo', serif;}
+.center-text {text-align:center;}
+
+ul {
+	list-style-type: none;
+}
+
+.label a {
+	color: white;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #55555;
+}
+
+form p {
+	margin-top: 5px;
+	margin-bottom: 5px;	
+}
+
+hr { 
+	border: 0; 
+	height: 1px; 
+	background: #333; 
+	background-image: linear-gradient(to right, #ccc, #333, #ccc); 
+}

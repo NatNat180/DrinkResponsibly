@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One|Poiret+One|Bitter|Arvo|Amatic+SC:400,700);
+
+/*
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Poiret One', cursive;
+font-family: 'Bitter', serif;
+font-family: 'Arvo', serif;
+font-family: 'Amatic SC', cursive;
+*/
+
+h1 {font-family: 'Poiret One', cursive;}
+body {font-family: 'Arvo', serif;}
+
+a:hover{
+	text-decoration: none;
+}
+
+form p {
+	margin-top: 5px;
+	margin-bottom: 5px;	
+}
+
+.center-text {text-align:center;}
